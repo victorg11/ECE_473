@@ -1,6 +1,5 @@
-// lab1_code.c 
-// R. Traylor
-// 7.21.08
+// Victor Garcia Flores
+// ECE 473
 
 //This program increments a binary display of the number of button pushes on switch 
 //S0 on the mega128 board.
