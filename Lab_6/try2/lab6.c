@@ -1,4 +1,4 @@
-// lab4.c
+// lab6.c
 // Victor Garcia Flores
 // 11.23.2019
 
