@@ -1,3 +1,5 @@
+// Victor Garcia Flores
+
 #include <avr/io.h>
 #include <avr/interrupt.h>
 #include "hd44780.h"
