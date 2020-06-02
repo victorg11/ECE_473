@@ -1,0 +1,888 @@
+Archive member included to satisfy reference by file (symbol)
+
+/opt/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/avr51/libgcc.a(_divmodhi4.o)
+                              hd44780.o (__divmodhi4)
+/opt/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/avr51/libgcc.a(_divmodsi4.o)
+                              hd44780.o (__divmodsi4)
+/opt/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/avr51/libgcc.a(_negsi2.o)
+                              /opt/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/avr51/libgcc.a(_divmodsi4.o) (__negsi2)
+/opt/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/avr51/libgcc.a(_exit.o)
+                              /opt/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51/crtatmega128.o (exit)
+/opt/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/avr51/libgcc.a(_tablejump2.o)
+                              twi_master.o (__tablejump2__)
+/opt/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/avr51/libgcc.a(_copy_data.o)
+                              lab5.o (__do_copy_data)
+/opt/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/avr51/libgcc.a(_clear_bss.o)
+                              lab5.o (__do_clear_bss)
+/opt/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/avr51/libgcc.a(_udivmodhi4.o)
+                              /opt/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/avr51/libgcc.a(_divmodhi4.o) (__udivmodhi4)
+/opt/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/avr51/libgcc.a(_udivmodsi4.o)
+                              /opt/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/avr51/libgcc.a(_divmodsi4.o) (__udivmodsi4)
+/opt/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51/libm.a(addsf3.o)
+                              lm73_functions.o (__addsf3)
+/opt/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51/libm.a(addsf3x.o)
+                              /opt/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51/libm.a(addsf3.o) (__addsf3x)
+/opt/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51/libm.a(fp_inf.o)
+                              /opt/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51/libm.a(addsf3x.o) (__fp_inf)
+/opt/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51/libm.a(fp_nan.o)
+                              /opt/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51/libm.a(addsf3x.o) (__fp_nan)
+/opt/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51/libm.a(fp_pscA.o)
+                              /opt/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51/libm.a(addsf3x.o) (__fp_pscA)
+/opt/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51/libm.a(fp_pscB.o)
+                              /opt/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51/libm.a(addsf3x.o) (__fp_pscB)
+/opt/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51/libm.a(fp_round.o)
+                              /opt/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51/libm.a(addsf3.o) (__fp_round)
+/opt/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51/libm.a(fp_split3.o)
+                              /opt/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51/libm.a(addsf3x.o) (__fp_split3)
+/opt/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51/libm.a(fp_zero.o)
+                              /opt/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51/libm.a(addsf3x.o) (__fp_zero)
+/opt/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51/libm.a(mulsf3.o)
+                              lm73_functions.o (__mulsf3)
+/opt/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51/libm.a(mulsf3x.o)
+                              /opt/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51/libm.a(mulsf3.o) (__mulsf3x)
+/opt/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51/libc.a(dtostrf.o)
+                              lm73_functions.o (dtostrf)
+/opt/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51/libc.a(div.o)
+                              lab5.o (div)
+/opt/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51/libc.a(dtoa_prf.o)
+                              /opt/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51/libc.a(dtostrf.o) (dtoa_prf)
+/opt/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51/libc.a(ftoa_engine.o)
+                              /opt/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51/libc.a(dtoa_prf.o) (__ftoa_engine)
+
+Allocating common symbols
+Common symbol       size              file
+
+prev_lm73_temp      0x2               lab5.o
+uart_tx_buf         0x28              uart_functions.o
+twi_state           0x1               twi_master.o
+encoder_test        0x2               lab5.o
+twi_buf             0x2               twi_master.o
+lcd_string_C        0x10              lab5.o
+lcd_string_array    0x20              hd44780.o
+lcd_string_F        0x10              lab5.o
+lm73_wr_buf         0x2               lm73_functions.o
+lm73_temp           0x2               lab5.o
+lcd_output          0x20              lab5.o
+twi_bus_addr        0x1               twi_master.o
+lcd_str             0x10              hd44780.o
+twi_msg_size        0x1               twi_master.o
+seconds             0x1               lab5.o
+lm73_rd_buf         0x2               lm73_functions.o
+uart_rx_buf         0x28              uart_functions.o
+last_adcVal         0x2               lab5.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+text             0x0000000000000000 0x0000000000020000 xr
+data             0x0000000000800100 0x000000000000ff00 rw !x
+eeprom           0x0000000000810000 0x0000000000010000 rw !x
+fuse             0x0000000000820000 0x0000000000000003 rw !x
+lock             0x0000000000830000 0x0000000000000400 rw !x
+signature        0x0000000000840000 0x0000000000000400 rw !x
+user_signatures  0x0000000000850000 0x0000000000000400 rw !x
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+Address of section .data set to 0x800100
+LOAD /opt/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51/crtatmega128.o
+LOAD lab5.o
+LOAD hd44780.o
+LOAD uart_functions.o
+LOAD lm73_functions.o
+LOAD twi_master.o
+START GROUP
+LOAD /opt/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/avr51/libgcc.a
+LOAD /opt/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51/libm.a
+LOAD /opt/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51/libc.a
+LOAD /opt/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51/libatmega128.a
+END GROUP
+                0x0000000000020000                __TEXT_REGION_LENGTH__ = DEFINED (__TEXT_REGION_LENGTH__)?__TEXT_REGION_LENGTH__:0x20000
+                0x000000000000ff00                __DATA_REGION_LENGTH__ = DEFINED (__DATA_REGION_LENGTH__)?__DATA_REGION_LENGTH__:0xff00
+                0x0000000000010000                __EEPROM_REGION_LENGTH__ = DEFINED (__EEPROM_REGION_LENGTH__)?__EEPROM_REGION_LENGTH__:0x10000
+                [0x0000000000000003]                __FUSE_REGION_LENGTH__ = DEFINED (__FUSE_REGION_LENGTH__)?__FUSE_REGION_LENGTH__:0x400
+                0x0000000000000400                __LOCK_REGION_LENGTH__ = DEFINED (__LOCK_REGION_LENGTH__)?__LOCK_REGION_LENGTH__:0x400
+                0x0000000000000400                __SIGNATURE_REGION_LENGTH__ = DEFINED (__SIGNATURE_REGION_LENGTH__)?__SIGNATURE_REGION_LENGTH__:0x400
+                0x0000000000000400                __USER_SIGNATURE_REGION_LENGTH__ = DEFINED (__USER_SIGNATURE_REGION_LENGTH__)?__USER_SIGNATURE_REGION_LENGTH__:0x400
+
+.hash
+ *(.hash)
+
+.dynsym
+ *(.dynsym)
+
+.dynstr
+ *(.dynstr)
+
+.gnu.version
+ *(.gnu.version)
+
+.gnu.version_d
+ *(.gnu.version_d)
+
+.gnu.version_r
+ *(.gnu.version_r)
+
+.rel.init
+ *(.rel.init)
+
+.rela.init
+ *(.rela.init)
+
+.rel.text
+ *(.rel.text)
+ *(.rel.text.*)
+ *(.rel.gnu.linkonce.t*)
+
+.rela.text
+ *(.rela.text)
+ *(.rela.text.*)
+ *(.rela.gnu.linkonce.t*)
+
+.rel.fini
+ *(.rel.fini)
+
+.rela.fini
+ *(.rela.fini)
+
+.rel.rodata
+ *(.rel.rodata)
+ *(.rel.rodata.*)
+ *(.rel.gnu.linkonce.r*)
+
+.rela.rodata
+ *(.rela.rodata)
+ *(.rela.rodata.*)
+ *(.rela.gnu.linkonce.r*)
+
+.rel.data
+ *(.rel.data)
+ *(.rel.data.*)
+ *(.rel.gnu.linkonce.d*)
+
+.rela.data
+ *(.rela.data)
+ *(.rela.data.*)
+ *(.rela.gnu.linkonce.d*)
+
+.rel.ctors
+ *(.rel.ctors)
+
+.rela.ctors
+ *(.rela.ctors)
+
+.rel.dtors
+ *(.rel.dtors)
+
+.rela.dtors
+ *(.rela.dtors)
+
+.rel.got
+ *(.rel.got)
+
+.rela.got
+ *(.rela.got)
+
+.rel.bss
+ *(.rel.bss)
+
+.rela.bss
+ *(.rela.bss)
+
+.rel.plt
+ *(.rel.plt)
+
+.rela.plt
+ *(.rela.plt)
+
+.text           0x0000000000000000     0x2246
+ *(.vectors)
+ .vectors       0x0000000000000000       0x8c /opt/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51/crtatmega128.o
+                0x0000000000000000                __vectors
+                0x0000000000000000                __vector_default
+ *(.vectors)
+ *(.progmem.gcc*)
+ .progmem.gcc_sw_table
+                0x000000000000008c       0xa2 twi_master.o
+                0x000000000000012e                . = ALIGN (0x2)
+                0x000000000000012e                __trampolines_start = .
+ *(.trampolines)
+ .trampolines   0x000000000000012e        0x0 linker stubs
+ *(.trampolines*)
+                0x000000000000012e                __trampolines_end = .
+ *libprintf_flt.a:*(.progmem.data)
+ *libc.a:*(.progmem.data)
+ .progmem.data  0x000000000000012e       0xfa /opt/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51/libc.a(ftoa_engine.o)
+ *(.progmem*)
+                0x0000000000000228                . = ALIGN (0x2)
+ *(.jumptables)
+ *(.jumptables*)
+ *(.lowtext)
+ *(.lowtext*)
+                0x0000000000000228                __ctors_start = .
+ *(.ctors)
+                0x0000000000000228                __ctors_end = .
+                0x0000000000000228                __dtors_start = .
+ *(.dtors)
+                0x0000000000000228                __dtors_end = .
+ SORT(*)(.ctors)
+ SORT(*)(.dtors)
+ *(.init0)
+ .init0         0x0000000000000228        0x0 /opt/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51/crtatmega128.o
+                0x0000000000000228                __init
+ *(.init0)
+ *(.init1)
+ *(.init1)
+ *(.init2)
+ .init2         0x0000000000000228        0xc /opt/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51/crtatmega128.o
+ *(.init2)
+ *(.init3)
+ *(.init3)
+ *(.init4)
+ .init4         0x0000000000000234       0x1a /opt/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/avr51/libgcc.a(_copy_data.o)
+                0x0000000000000234                __do_copy_data
+ .init4         0x000000000000024e       0x10 /opt/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/avr51/libgcc.a(_clear_bss.o)
+                0x000000000000024e                __do_clear_bss
+ *(.init4)
+ *(.init5)
+ *(.init5)
+ *(.init6)
+ *(.init6)
+ *(.init7)
+ *(.init7)
+ *(.init8)
+ *(.init8)
+ *(.init9)
+ .init9         0x000000000000025e        0x8 /opt/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51/crtatmega128.o
+ *(.init9)
+ *(.text)
+ .text          0x0000000000000266        0x4 /opt/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51/crtatmega128.o
+                0x0000000000000266                __vector_22
+                0x0000000000000266                __vector_28
+                0x0000000000000266                __vector_1
+                0x0000000000000266                __vector_32
+                0x0000000000000266                __vector_34
+                0x0000000000000266                __vector_24
+                0x0000000000000266                __bad_interrupt
+                0x0000000000000266                __vector_6
+                0x0000000000000266                __vector_31
+                0x0000000000000266                __vector_3
+                0x0000000000000266                __vector_23
+                0x0000000000000266                __vector_30
+                0x0000000000000266                __vector_25
+                0x0000000000000266                __vector_11
+                0x0000000000000266                __vector_13
+                0x0000000000000266                __vector_17
+                0x0000000000000266                __vector_19
+                0x0000000000000266                __vector_7
+                0x0000000000000266                __vector_27
+                0x0000000000000266                __vector_5
+                0x0000000000000266                __vector_4
+                0x0000000000000266                __vector_9
+                0x0000000000000266                __vector_2
+                0x0000000000000266                __vector_21
+                0x0000000000000266                __vector_15
+                0x0000000000000266                __vector_29
+                0x0000000000000266                __vector_8
+                0x0000000000000266                __vector_26
+                0x0000000000000266                __vector_14
+                0x0000000000000266                __vector_18
+                0x0000000000000266                __vector_20
+ .text          0x000000000000026a      0x840 lab5.o
+                0x000000000000026a                adc_init
+                0x000000000000028c                adc_read
+                0x00000000000002b8                spi_init
+                0x00000000000002dc                spi_read
+                0x00000000000002e6                tcnt0_init
+                0x00000000000002fa                tcnt1_init
+                0x0000000000000312                tcnt2_init
+                0x0000000000000324                section_tester
+                0x0000000000000330                LCDUpdater
+                0x00000000000003be                AlarmHandler
+                0x0000000000000460                chk_buttons
+                0x00000000000004a0                Read_ButtonsV2
+                0x0000000000000586                CLKBounds
+                0x00000000000005d6                AlarmBounds
+                0x0000000000000626                bargraph_updater
+                0x0000000000000664                Encoder_Data
+                0x00000000000007e2                segMapper
+                0x00000000000007ee                TimedigParser
+                0x0000000000000884                AlarmSetLED
+                0x000000000000088a                SevnSgDisp
+                0x00000000000008f0                AllSegments_BitClearer
+                0x0000000000000940                __vector_12
+                0x0000000000000964                __vector_10
+                0x0000000000000978                temptrSens
+                0x00000000000009c2                __vector_16
+ .text          0x0000000000000aaa      0x9e8 hd44780.o
+                0x0000000000000aaa                send_lcd
+                0x0000000000000ae0                refresh_lcd
+                0x0000000000000b9a                set_custom_character
+                0x0000000000000c0e                set_cursor
+                0x0000000000000c46                uint2lcd
+                0x0000000000000d40                int2lcd
+                0x0000000000000d7c                cursor_on
+                0x0000000000000dac                cursor_off
+                0x0000000000000ddc                shift_right
+                0x0000000000000e0c                shift_left
+                0x0000000000000e3c                strobe_lcd
+                0x0000000000000e4e                clear_display
+                0x0000000000000e7e                cursor_home
+                0x0000000000000eae                home_line2
+                0x0000000000000ede                fill_spaces
+                0x0000000000000f16                char2lcd
+                0x0000000000000f46                string2lcd
+                0x0000000000000fa4                lcd_init
+                0x0000000000001128                lcd_int32
+                0x00000000000012d8                lcd_int16
+ .text          0x0000000000001492       0x7e uart_functions.o
+                0x0000000000001492                uart_putc
+                0x000000000000149e                uart_puts
+                0x00000000000014ba                uart_puts_p
+                0x00000000000014e0                uart_init
+                0x00000000000014fa                uart_getc
+ .text          0x0000000000001510      0x1fc lm73_functions.o
+                0x0000000000001510                lm73_temp_convert
+                0x00000000000016e2                get_rawData
+ .text          0x000000000000170c      0x17c twi_master.o
+                0x000000000000170c                __vector_33
+                0x000000000000182a                twi_busy
+                0x0000000000001832                twi_start_wr
+                0x0000000000001854                twi_start_rd
+                0x0000000000001876                init_twi
+ .text          0x0000000000001888        0x0 /opt/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/avr51/libgcc.a(_divmodhi4.o)
+ .text          0x0000000000001888        0x0 /opt/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/avr51/libgcc.a(_divmodsi4.o)
+ .text          0x0000000000001888        0x0 /opt/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/avr51/libgcc.a(_negsi2.o)
+ .text          0x0000000000001888        0x0 /opt/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/avr51/libgcc.a(_exit.o)
+ .text          0x0000000000001888        0x0 /opt/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/avr51/libgcc.a(_tablejump2.o)
+ .text          0x0000000000001888        0x0 /opt/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/avr51/libgcc.a(_copy_data.o)
+ .text          0x0000000000001888        0x0 /opt/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/avr51/libgcc.a(_clear_bss.o)
+ .text          0x0000000000001888        0x0 /opt/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/avr51/libgcc.a(_udivmodhi4.o)
+ .text          0x0000000000001888        0x0 /opt/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/avr51/libgcc.a(_udivmodsi4.o)
+ .text          0x0000000000001888        0x0 /opt/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51/libm.a(addsf3.o)
+ .text          0x0000000000001888        0x0 /opt/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51/libm.a(addsf3x.o)
+ .text          0x0000000000001888        0x0 /opt/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51/libm.a(fp_inf.o)
+ .text          0x0000000000001888        0x0 /opt/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51/libm.a(fp_nan.o)
+ .text          0x0000000000001888        0x0 /opt/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51/libm.a(fp_pscA.o)
+ .text          0x0000000000001888        0x0 /opt/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51/libm.a(fp_pscB.o)
+ .text          0x0000000000001888        0x0 /opt/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51/libm.a(fp_round.o)
+ .text          0x0000000000001888        0x0 /opt/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51/libm.a(fp_split3.o)
+ .text          0x0000000000001888        0x0 /opt/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51/libm.a(fp_zero.o)
+ .text          0x0000000000001888        0x0 /opt/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51/libm.a(mulsf3.o)
+ .text          0x0000000000001888        0x0 /opt/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51/libm.a(mulsf3x.o)
+ .text          0x0000000000001888        0x0 /opt/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51/libc.a(dtostrf.o)
+ .text          0x0000000000001888        0x0 /opt/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51/libc.a(div.o)
+ .text          0x0000000000001888        0x0 /opt/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51/libc.a(dtoa_prf.o)
+ .text          0x0000000000001888        0x0 /opt/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51/libc.a(ftoa_engine.o)
+                0x0000000000001888                . = ALIGN (0x2)
+ *(.text.*)
+ .text.startup  0x0000000000001888      0x19e lab5.o
+                0x0000000000001888                main
+ .text.libgcc.mul
+                0x0000000000001a26        0x0 /opt/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/avr51/libgcc.a(_divmodhi4.o)
+ .text.libgcc.div
+                0x0000000000001a26       0x28 /opt/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/avr51/libgcc.a(_divmodhi4.o)
+                0x0000000000001a26                __divmodhi4
+                0x0000000000001a26                _div
+ .text.libgcc   0x0000000000001a4e        0x0 /opt/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/avr51/libgcc.a(_divmodhi4.o)
+ .text.libgcc.prologue
+                0x0000000000001a4e        0x0 /opt/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/avr51/libgcc.a(_divmodhi4.o)
+ .text.libgcc.builtins
+                0x0000000000001a4e        0x0 /opt/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/avr51/libgcc.a(_divmodhi4.o)
+ .text.libgcc.fmul
+                0x0000000000001a4e        0x0 /opt/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/avr51/libgcc.a(_divmodhi4.o)
+ .text.libgcc.fixed
+                0x0000000000001a4e        0x0 /opt/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/avr51/libgcc.a(_divmodhi4.o)
+ .text.libgcc.mul
+                0x0000000000001a4e        0x0 /opt/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/avr51/libgcc.a(_divmodsi4.o)
+ .text.libgcc.div
+                0x0000000000001a4e       0x2e /opt/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/avr51/libgcc.a(_divmodsi4.o)
+                0x0000000000001a4e                __divmodsi4
+ .text.libgcc   0x0000000000001a7c        0x0 /opt/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/avr51/libgcc.a(_divmodsi4.o)
+ .text.libgcc.prologue
+                0x0000000000001a7c        0x0 /opt/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/avr51/libgcc.a(_divmodsi4.o)
+ .text.libgcc.builtins
+                0x0000000000001a7c        0x0 /opt/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/avr51/libgcc.a(_divmodsi4.o)
+ .text.libgcc.fmul
+                0x0000000000001a7c        0x0 /opt/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/avr51/libgcc.a(_divmodsi4.o)
+ .text.libgcc.fixed
+                0x0000000000001a7c        0x0 /opt/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/avr51/libgcc.a(_divmodsi4.o)
+ .text.libgcc.mul
+                0x0000000000001a7c        0x0 /opt/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/avr51/libgcc.a(_negsi2.o)
+ .text.libgcc.div
+                0x0000000000001a7c       0x10 /opt/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/avr51/libgcc.a(_negsi2.o)
+                0x0000000000001a7c                __negsi2
+ .text.libgcc   0x0000000000001a8c        0x0 /opt/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/avr51/libgcc.a(_negsi2.o)
+ .text.libgcc.prologue
+                0x0000000000001a8c        0x0 /opt/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/avr51/libgcc.a(_negsi2.o)
+ .text.libgcc.builtins
+                0x0000000000001a8c        0x0 /opt/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/avr51/libgcc.a(_negsi2.o)
+ .text.libgcc.fmul
+                0x0000000000001a8c        0x0 /opt/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/avr51/libgcc.a(_negsi2.o)
+ .text.libgcc.fixed
+                0x0000000000001a8c        0x0 /opt/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/avr51/libgcc.a(_negsi2.o)
+ .text.libgcc.mul
+                0x0000000000001a8c        0x0 /opt/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/avr51/libgcc.a(_exit.o)
+ .text.libgcc.div
+                0x0000000000001a8c        0x0 /opt/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/avr51/libgcc.a(_exit.o)
+ .text.libgcc   0x0000000000001a8c        0x0 /opt/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/avr51/libgcc.a(_exit.o)
+ .text.libgcc.prologue
+                0x0000000000001a8c        0x0 /opt/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/avr51/libgcc.a(_exit.o)
+ .text.libgcc.builtins
+                0x0000000000001a8c        0x0 /opt/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/avr51/libgcc.a(_exit.o)
+ .text.libgcc.fmul
+                0x0000000000001a8c        0x0 /opt/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/avr51/libgcc.a(_exit.o)
+ .text.libgcc.fixed
+                0x0000000000001a8c        0x0 /opt/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/avr51/libgcc.a(_exit.o)
+ .text.libgcc.mul
+                0x0000000000001a8c        0x0 /opt/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/avr51/libgcc.a(_tablejump2.o)
+ .text.libgcc.div
+                0x0000000000001a8c        0x0 /opt/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/avr51/libgcc.a(_tablejump2.o)
+ .text.libgcc   0x0000000000001a8c       0x12 /opt/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/avr51/libgcc.a(_tablejump2.o)
+                0x0000000000001a8c                __tablejump2__
+ .text.libgcc.prologue
+                0x0000000000001a9e        0x0 /opt/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/avr51/libgcc.a(_tablejump2.o)
+ .text.libgcc.builtins
+                0x0000000000001a9e        0x0 /opt/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/avr51/libgcc.a(_tablejump2.o)
+ .text.libgcc.fmul
+                0x0000000000001a9e        0x0 /opt/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/avr51/libgcc.a(_tablejump2.o)
+ .text.libgcc.fixed
+                0x0000000000001a9e        0x0 /opt/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/avr51/libgcc.a(_tablejump2.o)
+ .text.libgcc.mul
+                0x0000000000001a9e        0x0 /opt/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/avr51/libgcc.a(_copy_data.o)
+ .text.libgcc.div
+                0x0000000000001a9e        0x0 /opt/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/avr51/libgcc.a(_copy_data.o)
+ .text.libgcc   0x0000000000001a9e        0x0 /opt/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/avr51/libgcc.a(_copy_data.o)
+ .text.libgcc.prologue
+                0x0000000000001a9e        0x0 /opt/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/avr51/libgcc.a(_copy_data.o)
+ .text.libgcc.builtins
+                0x0000000000001a9e        0x0 /opt/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/avr51/libgcc.a(_copy_data.o)
+ .text.libgcc.fmul
+                0x0000000000001a9e        0x0 /opt/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/avr51/libgcc.a(_copy_data.o)
+ .text.libgcc.fixed
+                0x0000000000001a9e        0x0 /opt/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/avr51/libgcc.a(_copy_data.o)
+ .text.libgcc.mul
+                0x0000000000001a9e        0x0 /opt/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/avr51/libgcc.a(_clear_bss.o)
+ .text.libgcc.div
+                0x0000000000001a9e        0x0 /opt/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/avr51/libgcc.a(_clear_bss.o)
+ .text.libgcc   0x0000000000001a9e        0x0 /opt/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/avr51/libgcc.a(_clear_bss.o)
+ .text.libgcc.prologue
+                0x0000000000001a9e        0x0 /opt/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/avr51/libgcc.a(_clear_bss.o)
+ .text.libgcc.builtins
+                0x0000000000001a9e        0x0 /opt/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/avr51/libgcc.a(_clear_bss.o)
+ .text.libgcc.fmul
+                0x0000000000001a9e        0x0 /opt/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/avr51/libgcc.a(_clear_bss.o)
+ .text.libgcc.fixed
+                0x0000000000001a9e        0x0 /opt/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/avr51/libgcc.a(_clear_bss.o)
+ .text.libgcc.mul
+                0x0000000000001a9e        0x0 /opt/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/avr51/libgcc.a(_udivmodhi4.o)
+ .text.libgcc.div
+                0x0000000000001a9e       0x28 /opt/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/avr51/libgcc.a(_udivmodhi4.o)
+                0x0000000000001a9e                __udivmodhi4
+ .text.libgcc   0x0000000000001ac6        0x0 /opt/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/avr51/libgcc.a(_udivmodhi4.o)
+ .text.libgcc.prologue
+                0x0000000000001ac6        0x0 /opt/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/avr51/libgcc.a(_udivmodhi4.o)
+ .text.libgcc.builtins
+                0x0000000000001ac6        0x0 /opt/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/avr51/libgcc.a(_udivmodhi4.o)
+ .text.libgcc.fmul
+                0x0000000000001ac6        0x0 /opt/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/avr51/libgcc.a(_udivmodhi4.o)
+ .text.libgcc.fixed
+                0x0000000000001ac6        0x0 /opt/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/avr51/libgcc.a(_udivmodhi4.o)
+ .text.libgcc.mul
+                0x0000000000001ac6        0x0 /opt/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/avr51/libgcc.a(_udivmodsi4.o)
+ .text.libgcc.div
+                0x0000000000001ac6       0x44 /opt/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/avr51/libgcc.a(_udivmodsi4.o)
+                0x0000000000001ac6                __udivmodsi4
+ .text.libgcc   0x0000000000001b0a        0x0 /opt/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/avr51/libgcc.a(_udivmodsi4.o)
+ .text.libgcc.prologue
+                0x0000000000001b0a        0x0 /opt/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/avr51/libgcc.a(_udivmodsi4.o)
+ .text.libgcc.builtins
+                0x0000000000001b0a        0x0 /opt/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/avr51/libgcc.a(_udivmodsi4.o)
+ .text.libgcc.fmul
+                0x0000000000001b0a        0x0 /opt/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/avr51/libgcc.a(_udivmodsi4.o)
+ .text.libgcc.fixed
+                0x0000000000001b0a        0x0 /opt/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/avr51/libgcc.a(_udivmodsi4.o)
+ .text.avr-libc.fplib
+                0x0000000000001b0a        0xe /opt/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51/libm.a(addsf3.o)
+                0x0000000000001b0a                __subsf3
+                0x0000000000001b0c                __addsf3
+ .text.avr-libc.fplib
+                0x0000000000001b18       0xcc /opt/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51/libm.a(addsf3x.o)
+                0x0000000000001b3a                __addsf3x
+ .text.avr-libc.fplib
+                0x0000000000001be4        0xc /opt/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51/libm.a(fp_inf.o)
+                0x0000000000001be4                __fp_inf
+ .text.avr-libc.fplib
+                0x0000000000001bf0        0x6 /opt/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51/libm.a(fp_nan.o)
+                0x0000000000001bf0                __fp_nan
+ .text.avr-libc.fplib
+                0x0000000000001bf6        0xe /opt/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51/libm.a(fp_pscA.o)
+                0x0000000000001bf6                __fp_pscA
+ .text.avr-libc.fplib
+                0x0000000000001c04        0xe /opt/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51/libm.a(fp_pscB.o)
+                0x0000000000001c04                __fp_pscB
+ .text.avr-libc.fplib
+                0x0000000000001c12       0x22 /opt/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51/libm.a(fp_round.o)
+                0x0000000000001c12                __fp_round
+ .text.avr-libc.fplib
+                0x0000000000001c34       0x44 /opt/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51/libm.a(fp_split3.o)
+                0x0000000000001c34                __fp_split3
+                0x0000000000001c44                __fp_splitA
+ .text.avr-libc.fplib
+                0x0000000000001c78        0xe /opt/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51/libm.a(fp_zero.o)
+                0x0000000000001c78                __fp_zero
+                0x0000000000001c7a                __fp_szero
+ .text.avr-libc.fplib
+                0x0000000000001c86        0x8 /opt/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51/libm.a(mulsf3.o)
+                0x0000000000001c86                __mulsf3
+ .text.avr-libc.fplib
+                0x0000000000001c8e       0xd2 /opt/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51/libm.a(mulsf3x.o)
+                0x0000000000001cac                __mulsf3x
+                0x0000000000001cb2                __mulsf3_pse
+ .text.avr-libc
+                0x0000000000001d60       0x40 /opt/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51/libc.a(dtostrf.o)
+                0x0000000000001d60                dtostrf
+ .text.avr-libc
+                0x0000000000001da0        0x4 /opt/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51/libc.a(div.o)
+                0x0000000000001da0                div
+ .text.avr-libc
+                0x0000000000001da4      0x2ee /opt/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51/libc.a(dtoa_prf.o)
+                0x0000000000001da4                dtoa_prf
+ .text.avr-libc
+                0x0000000000002092      0x1b0 /opt/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51/libc.a(ftoa_engine.o)
+                0x0000000000002092                __ftoa_engine
+                0x0000000000002242                . = ALIGN (0x2)
+ *(.fini9)
+ .fini9         0x0000000000002242        0x0 /opt/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/avr51/libgcc.a(_exit.o)
+                0x0000000000002242                exit
+                0x0000000000002242                _exit
+ *(.fini9)
+ *(.fini8)
+ *(.fini8)
+ *(.fini7)
+ *(.fini7)
+ *(.fini6)
+ *(.fini6)
+ *(.fini5)
+ *(.fini5)
+ *(.fini4)
+ *(.fini4)
+ *(.fini3)
+ *(.fini3)
+ *(.fini2)
+ *(.fini2)
+ *(.fini1)
+ *(.fini1)
+ *(.fini0)
+ .fini0         0x0000000000002242        0x4 /opt/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/avr51/libgcc.a(_exit.o)
+ *(.fini0)
+                0x0000000000002246                _etext = .
+
+.data           0x0000000000800100       0x34 load address 0x0000000000002246
+                0x0000000000800100                PROVIDE (__data_start, .)
+ *(.data)
+ .data          0x0000000000800100        0x0 /opt/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51/crtatmega128.o
+ .data          0x0000000000800100       0x34 lab5.o
+                0x0000000000800100                lcd_draft
+                0x0000000000800120                AlarmHrs
+                0x0000000000800121                ButtonState
+                0x0000000000800122                colon
+                0x0000000000800123                dec_to_7seg
+                0x000000000080012f                segment_data
+ .data          0x0000000000800134        0x0 hd44780.o
+ .data          0x0000000000800134        0x0 uart_functions.o
+ .data          0x0000000000800134        0x0 lm73_functions.o
+ .data          0x0000000000800134        0x0 twi_master.o
+ .data          0x0000000000800134        0x0 /opt/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/avr51/libgcc.a(_divmodhi4.o)
+ .data          0x0000000000800134        0x0 /opt/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/avr51/libgcc.a(_divmodsi4.o)
+ .data          0x0000000000800134        0x0 /opt/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/avr51/libgcc.a(_negsi2.o)
+ .data          0x0000000000800134        0x0 /opt/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/avr51/libgcc.a(_exit.o)
+ .data          0x0000000000800134        0x0 /opt/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/avr51/libgcc.a(_tablejump2.o)
+ .data          0x0000000000800134        0x0 /opt/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/avr51/libgcc.a(_copy_data.o)
+ .data          0x0000000000800134        0x0 /opt/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/avr51/libgcc.a(_clear_bss.o)
+ .data          0x0000000000800134        0x0 /opt/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/avr51/libgcc.a(_udivmodhi4.o)
+ .data          0x0000000000800134        0x0 /opt/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/avr51/libgcc.a(_udivmodsi4.o)
+ .data          0x0000000000800134        0x0 /opt/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51/libm.a(addsf3.o)
+ .data          0x0000000000800134        0x0 /opt/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51/libm.a(addsf3x.o)
+ .data          0x0000000000800134        0x0 /opt/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51/libm.a(fp_inf.o)
+ .data          0x0000000000800134        0x0 /opt/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51/libm.a(fp_nan.o)
+ .data          0x0000000000800134        0x0 /opt/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51/libm.a(fp_pscA.o)
+ .data          0x0000000000800134        0x0 /opt/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51/libm.a(fp_pscB.o)
+ .data          0x0000000000800134        0x0 /opt/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51/libm.a(fp_round.o)
+ .data          0x0000000000800134        0x0 /opt/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51/libm.a(fp_split3.o)
+ .data          0x0000000000800134        0x0 /opt/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51/libm.a(fp_zero.o)
+ .data          0x0000000000800134        0x0 /opt/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51/libm.a(mulsf3.o)
+ .data          0x0000000000800134        0x0 /opt/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51/libm.a(mulsf3x.o)
+ .data          0x0000000000800134        0x0 /opt/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51/libc.a(dtostrf.o)
+ .data          0x0000000000800134        0x0 /opt/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51/libc.a(div.o)
+ .data          0x0000000000800134        0x0 /opt/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51/libc.a(dtoa_prf.o)
+ .data          0x0000000000800134        0x0 /opt/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51/libc.a(ftoa_engine.o)
+ *(.data*)
+ *(.gnu.linkonce.d*)
+ *(.rodata)
+ *(.rodata*)
+ *(.gnu.linkonce.r*)
+                0x0000000000800134                . = ALIGN (0x2)
+                0x0000000000800134                _edata = .
+                0x0000000000800134                PROVIDE (__data_end, .)
+
+.bss            0x0000000000800134      0x101
+                0x0000000000800134                PROVIDE (__bss_start, .)
+ *(.bss)
+ .bss           0x0000000000800134        0x0 /opt/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51/crtatmega128.o
+ .bss           0x0000000000800134       0x2d lab5.o
+                0x0000000000800134                SnoozeSecCounter
+                0x0000000000800135                AlarmSounding
+                0x0000000000800136                AlarmMins
+                0x0000000000800137                buttonsToggled
+                0x0000000000800138                Volumedown
+                0x0000000000800139                Volumeup
+                0x000000000080013a                Snooze
+                0x000000000080013b                AlarmOnOff
+                0x000000000080013c                ChangeAlarmTime
+                0x000000000080013d                ChangeTime
+                0x000000000080013e                CurrCountVal
+                0x0000000000800140                start_flag
+                0x0000000000800141                buttons
+                0x0000000000800149                currR_Encoder
+                0x000000000080014a                prevR_Encoder
+                0x000000000080014b                currL_Encoder
+                0x000000000080014c                prevL_Encoder
+                0x000000000080014d                raw_encoder
+                0x000000000080014e                minutes
+                0x000000000080014f                hours
+ .bss           0x0000000000800161        0x1 hd44780.o
+ .bss           0x0000000000800162        0x0 uart_functions.o
+ .bss           0x0000000000800162        0x0 lm73_functions.o
+ .bss           0x0000000000800162        0x1 twi_master.o
+ .bss           0x0000000000800163        0x0 /opt/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/avr51/libgcc.a(_divmodhi4.o)
+ .bss           0x0000000000800163        0x0 /opt/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/avr51/libgcc.a(_divmodsi4.o)
+ .bss           0x0000000000800163        0x0 /opt/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/avr51/libgcc.a(_negsi2.o)
+ .bss           0x0000000000800163        0x0 /opt/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/avr51/libgcc.a(_exit.o)
+ .bss           0x0000000000800163        0x0 /opt/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/avr51/libgcc.a(_tablejump2.o)
+ .bss           0x0000000000800163        0x0 /opt/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/avr51/libgcc.a(_copy_data.o)
+ .bss           0x0000000000800163        0x0 /opt/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/avr51/libgcc.a(_clear_bss.o)
+ .bss           0x0000000000800163        0x0 /opt/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/avr51/libgcc.a(_udivmodhi4.o)
+ .bss           0x0000000000800163        0x0 /opt/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/avr51/libgcc.a(_udivmodsi4.o)
+ .bss           0x0000000000800163        0x0 /opt/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51/libm.a(addsf3.o)
+ .bss           0x0000000000800163        0x0 /opt/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51/libm.a(addsf3x.o)
+ .bss           0x0000000000800163        0x0 /opt/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51/libm.a(fp_inf.o)
+ .bss           0x0000000000800163        0x0 /opt/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51/libm.a(fp_nan.o)
+ .bss           0x0000000000800163        0x0 /opt/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51/libm.a(fp_pscA.o)
+ .bss           0x0000000000800163        0x0 /opt/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51/libm.a(fp_pscB.o)
+ .bss           0x0000000000800163        0x0 /opt/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51/libm.a(fp_round.o)
+ .bss           0x0000000000800163        0x0 /opt/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51/libm.a(fp_split3.o)
+ .bss           0x0000000000800163        0x0 /opt/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51/libm.a(fp_zero.o)
+ .bss           0x0000000000800163        0x0 /opt/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51/libm.a(mulsf3.o)
+ .bss           0x0000000000800163        0x0 /opt/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51/libm.a(mulsf3x.o)
+ .bss           0x0000000000800163        0x0 /opt/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51/libc.a(dtostrf.o)
+ .bss           0x0000000000800163        0x0 /opt/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51/libc.a(div.o)
+ .bss           0x0000000000800163        0x0 /opt/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51/libc.a(dtoa_prf.o)
+ .bss           0x0000000000800163        0x0 /opt/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51/libc.a(ftoa_engine.o)
+ *(.bss*)
+ *(COMMON)
+ COMMON         0x0000000000800163       0x49 lab5.o
+                0x0000000000800163                prev_lm73_temp
+                0x0000000000800165                encoder_test
+                0x0000000000800167                lcd_string_C
+                0x0000000000800177                lcd_string_F
+                0x0000000000800187                lm73_temp
+                0x0000000000800189                lcd_output
+                0x00000000008001a9                seconds
+                0x00000000008001aa                last_adcVal
+ COMMON         0x00000000008001ac       0x30 hd44780.o
+                0x00000000008001ac                lcd_string_array
+                0x00000000008001cc                lcd_str
+ COMMON         0x00000000008001dc       0x50 uart_functions.o
+                0x00000000008001dc                uart_tx_buf
+                0x0000000000800204                uart_rx_buf
+ COMMON         0x000000000080022c        0x4 lm73_functions.o
+                0x000000000080022c                lm73_wr_buf
+                0x000000000080022e                lm73_rd_buf
+ COMMON         0x0000000000800230        0x5 twi_master.o
+                0x0000000000800230                twi_state
+                0x0000000000800231                twi_buf
+                0x0000000000800233                twi_bus_addr
+                0x0000000000800234                twi_msg_size
+                0x0000000000800235                PROVIDE (__bss_end, .)
+                0x0000000000002246                __data_load_start = LOADADDR (.data)
+                0x000000000000227a                __data_load_end = (__data_load_start + SIZEOF (.data))
+
+.noinit         0x0000000000800235        0x0
+                [!provide]                        PROVIDE (__noinit_start, .)
+ *(.noinit*)
+                [!provide]                        PROVIDE (__noinit_end, .)
+                0x0000000000800235                _end = .
+                [!provide]                        PROVIDE (__heap_start, .)
+
+.eeprom         0x0000000000810000        0x0
+ *(.eeprom*)
+                0x0000000000810000                __eeprom_end = .
+
+.fuse
+ *(.fuse)
+ *(.lfuse)
+ *(.hfuse)
+ *(.efuse)
+
+.lock
+ *(.lock*)
+
+.signature
+ *(.signature*)
+
+.user_signatures
+ *(.user_signatures*)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x0000000000000000       0x5c
+ *(.comment)
+ .comment       0x0000000000000000       0x30 lab5.o
+                                         0x31 (size before relaxing)
+ .comment       0x0000000000000030       0x31 hd44780.o
+ .comment       0x0000000000000030       0x31 uart_functions.o
+ .comment       0x0000000000000030       0x31 lm73_functions.o
+ .comment       0x0000000000000030       0x31 twi_master.o
+ .comment       0x0000000000000030       0x2c /opt/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51/libc.a(dtostrf.o)
+                                         0x2d (size before relaxing)
+ .comment       0x000000000000005c       0x2d /opt/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51/libc.a(dtoa_prf.o)
+
+.note.gnu.avr.deviceinfo
+                0x0000000000000000       0x3c
+ .note.gnu.avr.deviceinfo
+                0x0000000000000000       0x3c /opt/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51/crtatmega128.o
+
+.note.gnu.build-id
+ *(.note.gnu.build-id)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x0000000000000000       0xa8
+ *(.debug_aranges)
+ .debug_aranges
+                0x0000000000000000       0x28 lab5.o
+ .debug_aranges
+                0x0000000000000028       0x20 hd44780.o
+ .debug_aranges
+                0x0000000000000048       0x20 uart_functions.o
+ .debug_aranges
+                0x0000000000000068       0x20 lm73_functions.o
+ .debug_aranges
+                0x0000000000000088       0x20 twi_master.o
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x0000000000000000     0x3418
+ *(.debug_info .gnu.linkonce.wi.*)
+ .debug_info    0x0000000000000000      0x780 /opt/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51/crtatmega128.o
+ .debug_info    0x0000000000000780      0xe87 lab5.o
+ .debug_info    0x0000000000001607     0x16e2 hd44780.o
+ .debug_info    0x0000000000002ce9      0x226 uart_functions.o
+ .debug_info    0x0000000000002f0f      0x32b lm73_functions.o
+ .debug_info    0x000000000000323a      0x1de twi_master.o
+
+.debug_abbrev   0x0000000000000000     0x1265
+ *(.debug_abbrev)
+ .debug_abbrev  0x0000000000000000      0x718 /opt/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51/crtatmega128.o
+ .debug_abbrev  0x0000000000000718      0x406 lab5.o
+ .debug_abbrev  0x0000000000000b1e      0x328 hd44780.o
+ .debug_abbrev  0x0000000000000e46      0x16f uart_functions.o
+ .debug_abbrev  0x0000000000000fb5      0x1af lm73_functions.o
+ .debug_abbrev  0x0000000000001164      0x101 twi_master.o
+
+.debug_line     0x0000000000000000     0x17bd
+ *(.debug_line .debug_line.* .debug_line_end)
+ .debug_line    0x0000000000000000       0x1a /opt/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51/crtatmega128.o
+ .debug_line    0x000000000000001a      0x9de lab5.o
+ .debug_line    0x00000000000009f8      0x949 hd44780.o
+ .debug_line    0x0000000000001341      0x137 uart_functions.o
+ .debug_line    0x0000000000001478      0x1b6 lm73_functions.o
+ .debug_line    0x000000000000162e      0x18f twi_master.o
+
+.debug_frame    0x0000000000000000      0x5ac
+ *(.debug_frame)
+ .debug_frame   0x0000000000000000      0x234 lab5.o
+ .debug_frame   0x0000000000000234      0x200 hd44780.o
+ .debug_frame   0x0000000000000434       0x64 uart_functions.o
+ .debug_frame   0x0000000000000498       0x7c lm73_functions.o
+ .debug_frame   0x0000000000000514       0x98 twi_master.o
+
+.debug_str      0x0000000000000000      0xa2a
+ *(.debug_str)
+ .debug_str     0x0000000000000000      0x27d /opt/avr8-gnu-toolchain-linux_x86_64/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr51/crtatmega128.o
+ .debug_str     0x000000000000027d      0x4cc lab5.o
+                                        0x533 (size before relaxing)
+ .debug_str     0x0000000000000749      0x161 hd44780.o
+                                        0x30c (size before relaxing)
+ .debug_str     0x00000000000008aa       0x75 uart_functions.o
+                                        0x177 (size before relaxing)
+ .debug_str     0x000000000000091f       0x96 lm73_functions.o
+                                        0x212 (size before relaxing)
+ .debug_str     0x00000000000009b5       0x75 twi_master.o
+                                        0x187 (size before relaxing)
+
+.debug_loc      0x0000000000000000     0x28b9
+ *(.debug_loc)
+ .debug_loc     0x0000000000000000      0x815 lab5.o
+ .debug_loc     0x0000000000000815     0x1acd hd44780.o
+ .debug_loc     0x00000000000022e2      0x170 uart_functions.o
+ .debug_loc     0x0000000000002452      0x38e lm73_functions.o
+ .debug_loc     0x00000000000027e0       0xd9 twi_master.o
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_ranges   0x0000000000000000      0x108
+ *(.debug_ranges)
+ .debug_ranges  0x0000000000000000       0x70 lab5.o
+ .debug_ranges  0x0000000000000070       0x80 hd44780.o
+ .debug_ranges  0x00000000000000f0       0x18 uart_functions.o
+
+.debug_macro
+ *(.debug_macro)
+OUTPUT(lab5.elf elf32-avr)
+LOAD linker stubs
