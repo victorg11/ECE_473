@@ -1,6 +1,3 @@
-//Author: Jose Manuel Lopez Alcala
-//Test code for LM73 Temperature Sensor
-//Displaying tempearature on LCD with decimal
 #include <avr/io.h>
 #include <avr/interrupt.h>
 #include "hd44780.h"
