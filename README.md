@@ -10,3 +10,5 @@ Project Capabilities:
 - Implemented multipurpose encoders for alarm and time adjustment, as well as radio station adjustment.
 - Mounted button board for alarm clock control and volume control.
 - Incorporated 7-segment display automatic brightness adjustment feature using chip PWM; output was reliant on photoresistor readings, which were read using ADCs.
+
+![Rear Image](https://github.com/victorg11/MicrocontrollerDesign_ECE_473/blob/master/FrontView.jpg)
