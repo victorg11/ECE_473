@@ -11,4 +11,6 @@ Project Capabilities:
 - Mounted button board for alarm clock control and volume control.
 - Incorporated 7-segment display automatic brightness adjustment feature using chip PWM; output was reliant on photoresistor readings, which were read using ADCs.
 
-![Rear Image](https://github.com/victorg11/MicrocontrollerDesign_ECE_473/blob/master/FrontView.jpg)
+![Front Image](https://github.com/victorg11/MicrocontrollerDesign_ECE_473/blob/master/FrontView.jpg)
+
+![Rear Image](https://github.com/victorg11/MicrocontrollerDesign_ECE_473/blob/master/RearView.jpg)
